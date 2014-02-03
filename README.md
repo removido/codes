@@ -1,4 +1,4 @@
-codes
+Codes
 =====
 
-Lots os codes.
+Lots of codes.
